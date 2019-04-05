@@ -4,7 +4,7 @@
 
 
 
-Toplı Resim Sıkıştırma ve Logo Ekleme Programı
+#Toplu Resim Sıkıştırma ve Logo Ekleme Programı
   - Projeyi indirin ve bir dizine çıkartın.
 
 
