@@ -18,3 +18,6 @@
   
   - Run diyin ve çalıştırın.
 
+#Sadece Çalıştırılabilir dosyayı indirmek için şu linki kullanabilirsiniz.
+
+https://raw.githubusercontent.com/impROS/impROS-Image-Optimizer/master/dist/Kudo%20Image%20Optimizer/Kudo_Image_Optimizer.zip
