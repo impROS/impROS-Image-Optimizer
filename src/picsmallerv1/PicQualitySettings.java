@@ -51,7 +51,7 @@ public class PicQualitySettings implements Runnable {
         for (File resim : picSmaller_anamenu.arrResimler) {
             picSmaller_anamenu.lblGecenSure.setText("Resim : " + resim.getName());
             // compressedImageFile = new File(strKaydedilecekDizin + "\\" + resim.getName());//kaydedilecekDizin
-            compressedImageFile = new File(strKaydedilecekDizin + "\\" + resim.getName());//kaydedilecekDizin
+            compressedImageFile = new File(strKaydedilecekDizin + File.separator + resim.getName());//kaydedilecekDizin
 
             try {
                 System.out.println("1");
